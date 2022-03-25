@@ -1,0 +1,17 @@
+.header{ color: red; text-align: center;  } 
+
+
+:root{ margin: 0%; padding: 0% ; }
+.center { margin: auto  ; width: 60%; text-align: center ; font-size: larger ; } 
+strong{ text-transform: capitalize; } 
+#blue { color: rgba(0,0 ,211, 0.86); display: inline; text-transform: capitalize; text-decoration: none; } 
+
+#blue:hover{ color: whitesmoke; background-color: rgba(0,0 ,211, 0.86);  } 
+#red{ color: red; text-decoration: none; display: inline;  }
+#red:hover { font-size: 120%; 
+    color: white ; 
+background-color: red ; } 
+footer{ margin: 0px ; padding: 0% ; margin-block-start: 0rem;  margin-block-end: 0%  ; width: 100%; height: 7vh; border: solid black ; background-color: rgba(250,0 ,0 , 0.8 ); border-radius: 1rem ; text-align: center; } 
+.ur { background-image: url(./IFRC_Logo.png )  ; background-repeat: no-repeat; background-size: contain; width: 100%; height: 100%;  }
+.blue{ width: 3.5rem; }
+
